@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Indie Flower', cursive;
+}
+body{
+    background-color: #e2e2f3
+}
+.card--user{
+    border: solid 1px rgba(85, 80, 145, 0.795);
+}
